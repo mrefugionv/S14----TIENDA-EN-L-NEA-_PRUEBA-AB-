@@ -1,5 +1,5 @@
 # S14----TIENDA-EN-LINEA-_PRUEBA-AB
-Probar cambios relacionados con la introducción de un sistema de recomendaciones mejorado.
+Prueba A/B de cambios relacionados con la introducción de un sistema de recomendaciones mejorado en una tienda en línea. Python. 
 
 ## Descripción
 
